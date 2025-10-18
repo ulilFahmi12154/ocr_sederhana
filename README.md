@@ -45,6 +45,9 @@
 **Langkah 2:**
 - Tambahkan Plugin 
 
-![new_project](images/03.png)
+![plugin](images/03.png)
 
+**Langkah 3:**
+- Tambahkan Izin Kamera (Android) 
 
+![camera](images/04.png)
