@@ -61,3 +61,10 @@
 **File: lib/main.dart**
 - Listing 3: main.dart
 
+![main](images/06.png)
+
+**File: lib/screens/splashscreen.dart**
+- Listing 4: splash_screen.dart
+
+![splash](images/07.png)
+
