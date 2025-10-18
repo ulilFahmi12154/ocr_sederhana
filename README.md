@@ -51,3 +51,8 @@
 - Tambahkan Izin Kamera (Android) 
 
 ![camera](images/04.png)
+
+**Langkah 4:**
+- Buat Struktur Folder  
+
+![folder](images/05.png)
