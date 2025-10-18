@@ -1,16 +1,43 @@
-# ocr_sederhana
+# 📱 Laporan Praktikum Pemrograman Mobile  
+## Pertemuan: Aplikasi OCR Sederhana Dengan Flutter
 
-A new Flutter project.
+---
 
-## Getting Started
+## 👤 Identitas
+- **Nama** : Muhammad Ulil Fahmi Ma'rifatulloh  
+- **NIM** : 2341760194
+- **Kelas** : SIB 3F 
+- **Mata Kuliah** : Pemrograman Mobile  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📖 Tujuan Praktikum
+1. Membuat aplikasi Flutter multi-halaman.
+2. Menggunakan plugin kamera untuk mengambil gambar.
+3. Mengintegrasikan OCR (Optical Character Recognition) menggunakan library
+ google mlkit text recognition.
+4. Menampilkan hasil OCR di halaman terpisah.
+5. Menerapkan navigasi dasar antar layar menggunakan Navigator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Alat dan Bahan
+- **Hardware** : Laptop/PC dengan RAM minimal 8GB  
+- **Software** :
+  - Flutter SDK  
+  - Android Studio / VS Code  
+  - Emulator Android / Device Fisik  
+- **Bahasa Pemrograman** : Dart  
+
+---
+
+## 📂 Langkah Praktikum
+### Langkah Kerja 
+**Langkah 1:**
+- Buat Project Baru
+
+![new_project](images/01.png)
+
+- Project berhasil di push ke repo remote
+
+![new_project](images/02.png)
