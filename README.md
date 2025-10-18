@@ -76,6 +76,11 @@
 **File: lib/screens/scan_screen.dart**
 - Listing 6: scan_screen.dart
 
-![home](images/09.png)
+![scan](images/09.png)
+
+**File: lib/screens/result_screen.dart**
+- Listing 7: result_screen.dart
+
+![result](images/10.png)
 
 
