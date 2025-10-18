@@ -63,14 +63,19 @@
 
 ![main](images/06.png)
 
-**File: lib/screens/splashscreen.dart**
+**File: lib/screens/splash_screen.dart**
 - Listing 4: splash_screen.dart
 
 ![splash](images/07.png)
 
-**File: lib/screens/homescreen.dart**
+**File: lib/screens/home_screen.dart**
 - Listing 5: home_screen.dart
 
 ![home](images/08.png)
+
+**File: lib/screens/scan_screen.dart**
+- Listing 6: scan_screen.dart
+
+![home](images/09.png)
 
 
