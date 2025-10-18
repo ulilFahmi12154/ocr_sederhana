@@ -41,3 +41,10 @@
 - Project berhasil di push ke repo remote
 
 ![new_project](images/02.png)
+
+**Langkah 2:**
+- Tambahkan Plugin 
+
+![new_project](images/03.png)
+
+
