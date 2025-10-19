@@ -83,4 +83,47 @@
 
 ![result](images/10.png)
 
+### Tugas Praktikum 
+- Jalankan aplikasi di emulator atau HP.
+
+![emulator](images/11.png)
+
+- Lakukan scan terhadap teks cetak (misal: buku, koran, atau layar HP).
+
+![scan](images/12.png)
+
+- Amati hasil OCR yang muncul.
+
+![result](images/13.png)
+
+![result](images/14.gif)
+
+- Jawab pertanyaan berikut:
+    -   Apakah semua teks terbaca dengan akurat? Mengapa?
+        - Ya, hampir semua teks terbaca dengan akurat.
+          Hasil OCR menampilkan teks:
+          "TERUSLAH BODOH JANGAN PINTAR TERE LIYE"
+          yang sesuai dengan sampul buku.
+         
+          Hal ini terjadi karena:
+        - Tulisan pada gambar jelas, dengan ukuran font yang besar juga dan dengan latar belakang yang kontras.
+        - Font yang digunakan sederhana (bukan ala-ala grafiti).
+        - Pencahayaan pada gambar baik.
+        - Namun jika kondisi pencahayaan sulit (kurang memadai) dan ukuran font yang kecil/rumit, maka hasil OCR menjadi kurang akurat.
+    -   Apa kegunaan fitur OCR dalam kehidupan sehari-hari?
+        - Fitur OCR (Optical Character Recognition) memungkinkan konversi teks yang terdapat dalam gambar menjadi format digital, sehingga dapat disimpan, disalin, atau diproses secara lebih efisien.
+
+        Kegunaannya dalam kehidupan sehari-hari antara lain:
+        - Mempermudah konversi dokumen fisik seperti buku, kwitansi, nota, dan surat menjadi format digital yang dapat disimpan dan diakses dengan lebih praktis.
+        - Mendukung proses penerjemahan teks dari gambar, seperti menu makanan atau papan informasi dalam bahasa asing, langsung ke dalam bahasa yang diinginkan.
+        - Menghemat waktu dalam pengisian data dari formulir atau identitas dengan mengekstrak teks secara otomatis tanpa perlu mengetik secara manual.
+
+    -   Sebutkan 2 contoh aplikasi nyata yang menggunakan OCR!
+        - Google Lens memungkinkan pengguna menyalin, menerjemahkan, dan menelusuri informasi dari teks yang terdapat dalam foto atau tangkapan layar secara langsung.
+        - CamScanner memungkinkan pengguna memindai dokumen fisik dan mengekstrak teks secara otomatis, sehingga hasilnya dapat disimpan sebagai file digital atau PDF yang bisa diedit dan dibagikan dengan mudah.
+
+    -   Kesimpulan:
+        - OCR mampu mengenali seluruh teks dengan akurat berkat kejernihan gambar dan jenis huruf yang mudah dibaca. Teknologi ini memberikan manfaat besar dalam mengubah informasi fisik menjadi digital serta mempercepat proses kerja yang bergantung pada dokumen.
+
+
 
