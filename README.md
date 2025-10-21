@@ -149,6 +149,20 @@
 
  ![UTS](images/UTS_5.gif)
 
+  Soal 3: Implementasi Plugin Text-to-Speech (TTS) (30
+ Poin)
+ - Instalasi Plugin (5 Poin):
+ ![UTS](images/UTS_6.png)
 
+ - Konversi Widget dan Inisialisasi (10 Poin):
+ ![UTS](images/UTS_7.png)
 
+ - Fungsionalitas Pembacaan (15 Poin):
+ 
+  ![UTS](images/UTS_8.gif)
+
+## 🔗 Link Google Drive
+Demo untuk fungsionalitas keseluruhan Soal
+
+[Klik di sini untuk membuka link Google Drive](https://drive.google.com/file/d/17Pd4jSxAvp8yHRHHVAMshM3KgBOmN6R-/view?usp=drive_link)
 
