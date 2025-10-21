@@ -139,6 +139,16 @@
  
  ![UTS](images/UTS_3.png)
 
+  Soal 2: Penyesuaian Tampilan dan Penanganan State/Error
+ (40 Poin)
+- Custom Loading Screen di ScanScreen (20 Poin):
+
+ ![UTS](images/UTS_4.gif)
+
+- Spesifikasi Pesan Error (20 Poin):
+
+ ![UTS](images/UTS_5.gif)
+
 
 
 
