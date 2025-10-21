@@ -127,6 +127,17 @@
 
 
 ## 📂 UTS - Pemrograman Mobile - Aplikasi OCR
+ Soal 1: Modifikasi Struktur Navigasi dan Aliran (30
+ Poin)
+ - Pengubahan Navigasi Home (15 Poin):
+
+ ![UTS](images/UTS_1.png)
+
+ - Teks Utuh dan Navigasi Balik (15 Poin):
+
+ ![UTS](images/UTS_2.png) 
+ 
+ ![UTS](images/UTS_3.png)
 
 
 
