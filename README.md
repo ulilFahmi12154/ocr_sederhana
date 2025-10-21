@@ -126,4 +126,8 @@
         - OCR mampu mengenali seluruh teks dengan akurat berkat kejernihan gambar dan jenis huruf yang mudah dibaca. Teknologi ini memberikan manfaat besar dalam mengubah informasi fisik menjadi digital serta mempercepat proses kerja yang bergantung pada dokumen.
 
 
+## 📂 UTS - Pemrograman Mobile - Aplikasi OCR
+
+
+
 
